@@ -2,7 +2,7 @@
 
 [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fakhaled247.github.io&style=for-the-badge)](https://akhaled247.github.io/)
 [![GitHub](https://img.shields.io/github/followers/akhaled247?label=Follow%20on%20GitHub&style=for-the-badge)](https://github.com/akhaled247)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/akhaled247)
 
 Engineering student and builder with experience in robotics, hardware prototyping, and full-stack development. Interested in systems that integrate hardware, software, and machine learning.
 
@@ -37,5 +37,5 @@ Engineering student and builder with experience in robotics, hardware prototypin
 
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-888?style=for-the-badge&logo=browser)](https://akhaled247.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/akhaled247)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhaled247)
 [![Email](https://img.shields.io/badge/Email-DDD?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
