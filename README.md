@@ -1,5 +1,10 @@
 # Hi, I'm Abdullah Khaled, an engineering student and builder with experience in robotics, hardware prototyping, and full-stack development.
+## Connect
 
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-888?style=for-the-badge&logo=browser)](https://akhaled247.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/akhaled247)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhaled247)
+[![Email](https://img.shields.io/badge/Email-DDD?style=for-the-badge&logo=gmail)](mailto:me@aakhaled.com)
 ## About Me
 - Robotics design and automation  
 - Embedded systems, sensing, and controls  
@@ -30,12 +35,3 @@
 ### Statistical Analysis
 ![R](https://img.shields.io/badge/R-165CAA?style=for-the-badge&logo=R)
 ![Google Sheets](https://img.shields.io/badge/Sheets-FFF?style=for-the-badge&logo=googlesheets)
-
----
-
-## Connect
-
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-888?style=for-the-badge&logo=browser)](https://akhaled247.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/akhaled247)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhaled247)
-[![Email](https://img.shields.io/badge/Email-DDD?style=for-the-badge&logo=gmail)](mailto:abdullahkhaled0224@gmail.com)
