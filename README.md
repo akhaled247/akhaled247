@@ -16,6 +16,10 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk)
 ![Onshape](https://custom-icon-badges.demolab.com/badge/Onshape-61b64d?style=for-the-badge&logo=onshape&logoColor=fff)
 
+### Robotics
+![ROS](https://img.shields.io/badge/ROS-FFF?style=for-the-badge&logo=ros&logoColor=22314E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFF)
+
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=FFF)
